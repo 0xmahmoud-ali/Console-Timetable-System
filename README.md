@@ -5,7 +5,7 @@ This project is a Java-based console application designed to manage university c
 ## Project Overview
 The application provides a command-line interface (CLI) to manage events and timetables, ensuring data integrity through specific business rules and providing persistence via CSV file handling.
 
-### Key Features
+## Features
 * **Interactive Main Menu:** Navigate through options to view, add, or delete events, and manage file imports/exports.
 * **Visual Timetable Grid:** Displays occurrences in a structured MON-FRI grid with time slots from 8:00 to 18:00.
 * **Collision Detection:** Prevents scheduling conflicts by ensuring new events do not overlap with existing occurrences.
